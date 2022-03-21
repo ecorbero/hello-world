@@ -1,2 +1,2 @@
 # hello-world
-descripción corta.
+descripción curta.
